@@ -1,4 +1,4 @@
 # demo1
 This is my first repository.
 <br>
-Navjot Singh Author
+Navjot Singh bumrah  Author
